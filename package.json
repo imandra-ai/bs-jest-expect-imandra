@@ -1,0 +1,19 @@
+{
+  "name": "bs-jest-expect-imandra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "build": "bsb -make-world",
+      "clean": "bsb -clean-world",
+      "watch": "bsb -make-world -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+      "@glennsl/bs-jest": "^0.4.7",
+    "bs-imandra-client": "git+https://github.com/aestheticintegration/bs-imandra-client.git"
+  },
+  "devDependencies": {
+  }
+}
