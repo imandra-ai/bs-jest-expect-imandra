@@ -1,4 +1,6 @@
+# bs-jest-expect-imandra
 
+bs-jest helpers for assertions on Imandra client responses.
 
 # Build
 ```
@@ -10,7 +12,3 @@ npm run build
 ```
 npm run watch
 ```
-
-
-# Editor
-If you use `vscode`, Press `Windows + Shift + B` it will build automatically
